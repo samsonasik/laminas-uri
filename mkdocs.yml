@@ -7,3 +7,6 @@ nav:
 site_name: laminas-uri
 site_description: "Object oriented interface to URIs, with facilities for validation"
 repo_url: 'https://github.com/laminas/laminas-uri'
+extra:
+    project: Components
+    project_url: 'https://docs.laminas.dev'
